@@ -1,7 +1,7 @@
 # KidsMultiplicationGame
 A simple Multiplication game for kids 
 <img
-  src="/path/to/img.jpg"
+  src="https://github.com/ShahEdJamhour/KidsMultiplicationGame/blob/main/Screenshot_20230506_151228.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
